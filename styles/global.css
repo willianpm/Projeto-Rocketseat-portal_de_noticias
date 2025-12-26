@@ -54,6 +54,7 @@ img {
 
 main {
   margin-top: 16px;
+  gap: 80px;
 }
 
 .content-tag {
